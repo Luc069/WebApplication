@@ -1,0 +1,31 @@
+.post-outline {
+  border-radius: 10px;
+  border: 1px solid #fff;
+}
+
+.card-z-index {
+  z-index: 0 !important;
+  position: absolute;
+}
+
+.add-post-outline {
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+
+  border: 1px solid #fff;
+}
+
+.div-size {
+  height: 250px;
+}
+
+.flex-grow {
+  flex-grow: 0.62;
+}
+
+.flex-wrap {
+  flex-wrap: wrap;
+}

@@ -1,0 +1,30 @@
+.list-group-item:focus {
+  color: blue;
+}
+
+.img-left-line {
+  border-right: 3px solid #fff;
+}
+
+
+.pencil-button {
+  color: white;
+  background: none;
+  border: none;
+}
+
+.bio-input {
+  display:inline-block;
+  padding:15px 10px;
+  line-height:140%;
+}
+
+.change-info-text {
+  font-size: 2rem;
+}
+
+
+.special_modal .modal-content{
+  background-color: #232023;
+  color: #fff;
+}

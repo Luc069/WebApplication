@@ -1,0 +1,133 @@
+@import url("https://fonts.googleapis.com/css2?family=Anton&family=Oswald:wght@700&family=Roboto:wght@700&family=Teko:wght@700&display=swap");
+
+* {
+  font-family: "Roboto", sans-serif !important;
+}
+
+.weight- {
+  width: 50%;
+}
+
+.unstyled-link {
+  text-decoration: none;
+  color: black;
+}
+
+.unstyled-link:active,
+.unstyled-link:focus,
+.unstyled-link:hover {
+  text-decoration: none;
+  color: black;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+html,
+body,
+#root {
+  background: #232023;
+}
+
+.background-transparent {
+  background-color: transparent !important;
+}
+
+.font-color-white {
+  color: #fff;
+}
+
+.color-white {
+  color: #fff;
+}
+
+.font-color-red {
+  color: #ff3535;
+}
+
+.btn:focus {
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+.main-color-background {
+  background-color: #232023;
+}
+
+.color-main {
+  color: #232023;
+}
+
+.main-button {
+  color: #fff;
+  background: none;
+  border: none;
+  padding: 1rem;
+}
+
+.main-button:hover {
+  background-color: #282828;
+}
+
+.main-button:focus {
+  background-color: #282828;
+}
+
+.main-button-red {
+  color: #fff;
+  background: none;
+  border: none;
+  padding: 1rem;
+}
+
+.main-button-red:hover {
+  background-color: #ff353593;
+  transition: 0.2s;
+}
+
+.main-button-red:focus {
+  background-color: #ff353593;
+}
+
+.img-radius {
+  border-radius: 50%;
+  border: 3px solid #fff;
+}
+
+.img-radius-1 {
+  border-radius: 50%;
+  border: 2px solid #fff;
+}
+
+.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 4rem;
+  align-self: flex-start;
+}
+
+.sticky-1 {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 4.1rem;
+  align-self: flex-start;
+}
+
+.sticky-nav {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  align-self: flex-start;
+}
+
+.center-flex {
+  justify-content: center;
+  align-items: center;
+}
+
+.transparent-button {
+  color: #fff;
+  background: none;
+  border: none;
+}
